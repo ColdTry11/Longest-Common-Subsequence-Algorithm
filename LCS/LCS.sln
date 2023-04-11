@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LCS", "LCS\LCS.vcxproj", "{99733357-135B-472C-AEC1-389BE4264D79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99733357-135B-472C-AEC1-389BE4264D79}.Debug|x64.ActiveCfg = Debug|x64
+		{99733357-135B-472C-AEC1-389BE4264D79}.Debug|x64.Build.0 = Debug|x64
+		{99733357-135B-472C-AEC1-389BE4264D79}.Debug|x86.ActiveCfg = Debug|Win32
+		{99733357-135B-472C-AEC1-389BE4264D79}.Debug|x86.Build.0 = Debug|Win32
+		{99733357-135B-472C-AEC1-389BE4264D79}.Release|x64.ActiveCfg = Release|x64
+		{99733357-135B-472C-AEC1-389BE4264D79}.Release|x64.Build.0 = Release|x64
+		{99733357-135B-472C-AEC1-389BE4264D79}.Release|x86.ActiveCfg = Release|Win32
+		{99733357-135B-472C-AEC1-389BE4264D79}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E9E0CF2-641F-4029-94DA-B5EEE461CBA4}
+	EndGlobalSection
+EndGlobal
